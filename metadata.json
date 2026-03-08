@@ -1,0 +1,5 @@
+{
+  "name": "TravelMate AI",
+  "description": "AI-powered Multilingual Tourism Ticket Booking Chatbot with Sustainability Tracking",
+  "requestFramePermissions": ["microphone"]
+}
